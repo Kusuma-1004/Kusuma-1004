@@ -15,19 +15,7 @@ Hi! I'm a **DevOps Engineer** with 4+ years of experience in building and automa
 
 ---
 
-## 📁 Sample Projects
 
-### 🔧 [Jenkins CI/CD Pipeline](https://github.com/YOUR_USERNAME/jenkins-cicd-demo)
-A Jenkins Groovy scripted pipeline that builds a Docker image, pushes to a registry, and deploys to Kubernetes using a Python installer script.
-
-### ☁️ [Terraform AWS VPC](https://github.com/YOUR_USERNAME/terraform-aws-vpc)
-Infrastructure as Code project using Terraform to provision AWS VPC, subnets, route tables, and more.
-
-### 📦 [Helm Chart: NGINX App](https://github.com/YOUR_USERNAME/helm-nginx-chart)
-Custom Helm chart to deploy a sample web server with templated config files.
-
-### ⚙️ [Ansible NGINX Setup](https://github.com/YOUR_USERNAME/ansible-nginx-playbook)
-Simple Ansible playbook to install and configure NGINX on Ubuntu using role-based structure.
 
 ---
 
@@ -37,4 +25,4 @@ Simple Ansible playbook to install and configure NGINX on Ubuntu using role-base
 
 ---
 
-> 🧠 *“Infrastructure is code, and automation is power.”*
+>
